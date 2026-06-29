@@ -8,9 +8,9 @@ I focus on development, structural logic, and automation solutions for complex, 
 * **Core Technologies:** Python, GDScript (Godot Engine), Linux Ecosystem, Git
 
 ### 🚀 What I'm Engineering Right Now
+* [![3D Diffusion](https://shields.io)](https://github.com/PGComplexSystems/3dDiffusion)
 * **[Digital Twin Simulation Framework]** A low-latency telemetry visualization project syncing real-time Python logic engines with interactive Godot 4 3D node environments via UDP.
 * **Lightweight 2D/3D Architecture:** Prototyping game engine mechanics focused on clean physics integration and spatial logic loops.
-
 > *"Translating abstract algorithmic problems and multifaceted system behaviors into highly responsive, visually animated execution."*
 
 ---
