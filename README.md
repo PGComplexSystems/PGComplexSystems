@@ -10,7 +10,7 @@ I bridge the gap between heavy scientific computing, backend data loops, and rea
 
 ## 🚀 Active Engineering Projects
 
-### [3D Diffusion Engine](https://github.com)
+### [3D Diffusion Engine](https://github.com/PGComplexSystems/3dDiffusion)
 A high-performance, multi-threaded Julia engine simulating stochastic Brownian molecular diffusion with external wind drift. Features an automated V&V test suite that mathematically validates empirical simulation data against analytical textbook truths before rendering.
 
 ### [Distributed Simulation Cluster & Orchestration Framework]
